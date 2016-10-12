@@ -1,0 +1,28 @@
+2015-07-31 15:10:36 INFO [main] (SmpReceiveRsponseService.java:222) - get the attendMachine data 
+2015-07-31 15:10:38 INFO [main] (SmpReceiveRsponseService.java:225) - smp receive the data from the webservice
+2015-07-31 15:10:39 INFO [main] (SmpReceiveRsponseService.java:169) -   employee attend source data list  count 37259
+2015-07-31 15:10:39 INFO [main] (SmpReceiveRsponseService.java:93) - has existe person match map size 68
+2015-07-31 15:10:54 INFO [main] (SmpReceiveRsponseService.java:80) - new employ match map size 47
+2015-07-31 15:10:54 INFO [main] (SmpReceiveRsponseService.java:214) -  smp response data  {"data":[]}
+2015-07-31 15:10:54 INFO [main] (SmpReceiveRsponseService.java:229) - smp send data to the webservice
+2015-07-31 15:17:37 INFO [main] (SmpReceiveRsponseService.java:222) - get the attendMachine data 
+2015-07-31 15:17:39 INFO [main] (SmpReceiveRsponseService.java:225) - smp receive the data from the webservice
+2015-07-31 15:17:41 INFO [main] (SmpReceiveRsponseService.java:169) -   employee attend source data list  count 37259
+2015-07-31 15:17:41 INFO [main] (SmpReceiveRsponseService.java:93) - has existe person match map size 68
+2015-07-31 15:17:56 INFO [main] (SmpReceiveRsponseService.java:80) - new employ match map size 47
+2015-07-31 15:17:56 INFO [main] (SmpReceiveRsponseService.java:214) -  smp response data  {"data":[{"attendIp":"ipremarks","name":"闫志军","time":"2015-07-31 14:23:05","user_id":"149","work_no":"103042"}]}
+2015-07-31 15:17:56 INFO [main] (SmpReceiveRsponseService.java:229) - smp send data to the webservice
+2015-07-31 15:27:41 INFO [main] (SmpReceiveRsponseService.java:222) - get the attendMachine data 
+2015-07-31 15:27:44 INFO [main] (SmpReceiveRsponseService.java:225) - smp receive the data from the webservice
+2015-07-31 15:27:45 INFO [main] (SmpReceiveRsponseService.java:169) -   employee attend source data list  count 37259
+2015-07-31 15:27:45 INFO [main] (SmpReceiveRsponseService.java:93) - has existe person match map size 68
+2015-07-31 15:28:00 INFO [main] (SmpReceiveRsponseService.java:80) - new employ match map size 47
+2015-07-31 15:28:00 INFO [main] (SmpReceiveRsponseService.java:214) -  smp response data  {"data":[]}
+2015-07-31 15:28:00 INFO [main] (SmpReceiveRsponseService.java:229) - smp send data to the webservice
+2015-07-31 16:11:17 INFO [main] (SmpReceiveRsponseService.java:222) - get the attendMachine data 
+2015-07-31 16:11:19 INFO [main] (SmpReceiveRsponseService.java:225) - smp receive the data from the webservice
+2015-07-31 16:11:20 INFO [main] (SmpReceiveRsponseService.java:169) -   employee attend source data list  count 37259
+2015-07-31 16:11:20 INFO [main] (SmpReceiveRsponseService.java:93) - has existe person match map size 68
+2015-07-31 16:11:35 INFO [main] (SmpReceiveRsponseService.java:80) - new employ match map size 47
+2015-07-31 16:11:35 INFO [main] (SmpReceiveRsponseService.java:214) -  smp response data  {"data":[]}
+2015-07-31 16:11:35 INFO [main] (SmpReceiveRsponseService.java:229) - smp send data to the webservice
